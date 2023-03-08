@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "username": "Bobascript",
+        "email": "scriptmatcha@gmail.com",
+        "password": "password123"
+    },
+    {
+        "id": 2,
+        "username": "Eden",
+        "email": "eden@sweden.com",
+        "password": "password123"
+    },
+    {
+        "id": 3,
+        "username": "Tina",
+        "email": "Iamacat@gmail.com",
+        "password": "Tv123"
+    }
+]

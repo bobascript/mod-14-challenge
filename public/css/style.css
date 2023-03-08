@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Sono:wght@400;500;700;800&display=swap');
+*{
+    font-family: 'Sono', sans-serif;
+}
+header {
+    border-bottom: 3px solid #1d2c00;
+    text-align: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #004119;
+    color: #ebe6c9;
+    padding: 15px;
+    flex-wrap: wrap;
+}
+
+.homepage {
+    color: #ebe6c9;
+}
+
+.container {
+    width: 300px;
+    border: 3px solid #271d0e;
+    border-radius: 25px;
+    padding: 10px;
+    margin: 20px;
+}
+
+.card-head {
+    background-color: #004119;
+    color: #ebe6c9;
+    font-family: 'Sono', sans-serif;
+    margin: auto;
+}

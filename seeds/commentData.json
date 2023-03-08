@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "comment_text": "Same! I'm loving my bootcamp! I've learned so much!!!",
+        "post_id": 1,
+        "user_id": 3
+    },
+    {
+        "id": 2,
+        "comment_text": "I think the Meta Quest is still better tbh,  its just built different",
+        "post_id": 2,
+        "user_id": 1
+    },
+    {
+        "id": 3,
+        "comment_text": "I agree! AI Art programs definitely need to change if they want to succeed in the future!",
+        "post_id": 3,
+        "user_id": 2
+    }
+]

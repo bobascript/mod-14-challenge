@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "title": "Coding Bootcamp",
+        "post_text": "Coding bootcamp is pretty fun and a great way to learn! Definitely sign up if you're given the chance!",
+        "user_id": 1
+    },
+    {
+        "id": 2,
+        "title": "New Playstation VR!",
+        "post_text": "The new PSVR seems pretty fun! I wonder how PC VR devs will meet the new expectations.",
+        "user_id": 2
+    },
+    {
+        "id": 3,
+        "title": "AI Art Blows",
+        "post_text": "AI Art is pretty bad for digital artists considering it takes their art without permission to learn and create things in their style:/",
+        "user_id": 3
+    }
+]

@@ -52,7 +52,7 @@ To use this app, you can simply head over to the deployed site down below! If yo
 
 ## Screenshot
 
-![Screenshot]()
+![Screenshot](./assets/screenshot.png)
 
 ## Deployed Page
-The page has been deployed to heroku! You can visit it [here]()
+The page has been deployedto heroku! You can visit it [here](https://desolate-river-40719.herokuapp.com)

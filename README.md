@@ -55,4 +55,4 @@ To use this app, you can simply head over to the deployed site down below! If yo
 ![Screenshot](./assets/screenshot.png)
 
 ## Deployed Page
-The page has been deployedto heroku! You can visit it [here](https://desolate-river-40719.herokuapp.com)
+The page has been deployedto heroku! You can visit it [here](https://dashboard.heroku.com/apps/fathomless-sea-17796/settings)
